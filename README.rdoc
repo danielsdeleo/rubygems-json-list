@@ -1,0 +1,3 @@
+= Rubygems JSON List
+This is a plugin for rubygems. It provides a json_list command that works
+like list, except the output is in JSON.
